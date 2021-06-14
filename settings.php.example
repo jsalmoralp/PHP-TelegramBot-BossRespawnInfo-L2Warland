@@ -1,0 +1,8 @@
+<?php 
+
+define ('MYSQL_SERVER', 'localhost');
+define ('MYSQL_USER', 'db_user');
+define ('MYSQL_PASSWORD', 'db_password');
+define ('MYSQL_DB', 'db_name');
+
+define ('API_TOKEN', 'Api_token_here');
